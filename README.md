@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" height="25"/>
 </p>
 
+📫 Reach me at: [nataliejllow@gmail.com](mailto:nataliejllow@gmail.com) 
+
 <!--
 **natalie230/natalie230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
