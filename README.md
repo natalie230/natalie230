@@ -1,73 +1,42 @@
-## > Hello world, I am Natalie! 🐘
+# hi, i'm natalie 🐘
 
-### 💻 I’ve Worked With
-<p>
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B" height="25"/>
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="25"/>
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="25"/>
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="25"/>
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6" height="25"/>
-<!--   <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3" height="25"/> -->
-</p>
+Currently an AI Apprentice at AI Singapore, working across CV, NLP, and time-series domains.
 
-<p>
-  <img src="https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikitlearn&logoColor=F7931E" height="25"/>
-  <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C" height="25"/>
-</p>
+I care about the full stack: clean data pipelines, reproducible experiments, and systems that don't fall over in production.
 
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=FFFFFF" height="25"/>
-  <img src="https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=google-bigquery&logoColor=F1F1F1" height="25"/>
-</p>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031" height="25"/>
-  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=FFFFFF" height="25"/>
-</p>
+## what i'm working on
 
-<p>
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="25"/>
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" height="25"/>
-</p>
+- 🏗️ End-to-end ML pipelines with **Docker · GCP Cloud Run · GitHub Actions · MLflow**
+- 🤖 LLM applications — fine-tuning, RAG, prompt engineering, structured outputs
+- 📊 Production inference services with **FastAPI · Streamlit · Optuna**
 
-📫 Reach me at: [nataliejllow@gmail.com](mailto:nataliejllow@gmail.com) 
+---
 
-<!--
-**natalie230/natalie230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## things i've built
 
-Here are some ideas to get you started:
+| project | what it is | stack |
+|---|---|---|
+| 🏆 [Redy](https://github.com/joyngjr/redy) | AI interview coach — 2nd Runner Up, National AI Student Challenge 2025 Temus Track | Angular · Django |
+| 🕵️ [ScamSnipers](https://github.com/sweeenlim/scamsnipers) | Insurance fraud detection with ensemble ML + SHAP explainability | Python · TabPFN |
+| 💬 [SentimentPro](https://github.com/rhyden-kx/SentimentPro) | Customer sentiment dashboard from app store reviews | Python · Plotly · VADER · Docker |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,r)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,js,html,css,r)](https://skillicons.dev)
+## stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFD43B)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)
+```
+Languages    Python · SQL · Bash
+ML/AI        PyTorch · HuggingFace · Scikit-learn · OpenAI API · Hydra
+MLOps        Docker · GCP · MLflow · Optuna · CI/CD · PySpark · Delta Lake
+Backend      FastAPI · Flask · PostgreSQL
+```
 
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikitlearn&logoColor=F7931E)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
+---
 
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=FFFFFF)
-![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=google-bigquery&logoColor=F1F1F1)
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
--->
+## a bit more
+- 📷 Photographer — mostly nature and quiet urban corners · [Instagram](https://www.instagram.com/natalie_photog/) / [website](https://natphotog.my.canva.site/natalie-s-photography-highlights)
+- 🌿 You'll find me outdoors when I'm not at a terminal
+- 💬 Always happy to talk AI, MLOps, LLM, or what's actually worth learning right now
+- 📫 [nataliejllow@gmail.com](mailto:nataliejllow@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jia-li-natalie-low/)
