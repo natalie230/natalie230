@@ -9,7 +9,7 @@ I care about the full stack: clean data pipelines, reproducible experiments, and
 ## what i'm working on
 
 - 🏗️ End-to-end ML pipelines with **Docker · GCP Cloud Run · GitHub Actions · MLflow**
-- 🤖 LLM applications — fine-tuning, RAG, prompt engineering, structured outputs
+- 🤖 LLM applications — agentic ai system, fine-tuning, RAG, prompt engineering, structured outputs
 - 📊 Production inference services with **FastAPI · Streamlit · Optuna**
 
 ---
