@@ -18,7 +18,7 @@ I care about the full stack: clean data pipelines, reproducible experiments, and
 
 | project | what it is | stack |
 |---|---|---|
-| 🏆 [Redy](https://github.com/joyngjr/redy) | AI interview coach — 2nd Runner Up, National AI Student Challenge 2025 Temus Track | Angular · Django |
+| 🏆 [Redy](https://github.com/natalie230/redy) | AI interview coach — 2nd Runner Up, National AI Student Challenge 2025 Temus Track | Angular · Django |
 | 🕵️ [ScamSnipers](https://github.com/sweeenlim/scamsnipers) | Insurance fraud detection with ensemble ML + SHAP explainability | Python · TabPFN |
 | 💬 [SentimentPro](https://github.com/rhyden-kx/SentimentPro) | Customer sentiment dashboard from app store reviews | Python · Plotly · VADER · Docker |
 
