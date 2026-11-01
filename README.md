@@ -18,9 +18,8 @@ AI Engineer
 
 ```
 Languages    Python · SQL · Bash
-ML/AI        PyTorch · HuggingFace · Scikit-learn · OpenAI API · Hydra
-MLOps        Docker · GCP · MLflow · Optuna · CI/CD · PySpark · Delta Lake
-Backend      FastAPI · Flask · PostgreSQL
+ML/AI        PyTorch · Scikit-learn · OpenAI API · LangGraph · Arize Phoenix  
+MLOps        Docker · GCP · MLflow · Optuna · CI/CD
 ```
 
 ---
