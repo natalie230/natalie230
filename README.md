@@ -1,16 +1,6 @@
 # hi, i'm natalie 🐘
 
-Currently an AI Apprentice at AI Singapore, working across CV, NLP, and time-series domains.
-
-I care about the full stack: clean data pipelines, reproducible experiments, and systems that don't fall over in production.
-
----
-
-## what i'm working on
-
-- 🏗️ End-to-end ML pipelines with **Docker · GCP Cloud Run · GitHub Actions · MLflow**
-- 🤖 LLM applications — agentic ai system, fine-tuning, RAG, prompt engineering, structured outputs
-- 📊 Production inference services with **FastAPI · Streamlit · Optuna**
+AI Engineer
 
 ---
 
@@ -37,6 +27,6 @@ Backend      FastAPI · Flask · PostgreSQL
 
 ## a bit more
 - 📷 Photographer — mostly nature and quiet urban corners · [Instagram](https://www.instagram.com/natalie_photog/) / [website](https://natphotog.my.canva.site/natalie-s-photography-highlights)
-- 🌿 You'll find me outdoors when I'm not at a terminal
-- 💬 Always happy to talk AI, MLOps, LLM, or what's actually worth learning right now
+- 🌿 You'll find me outdoors when I'm not at a work
+- 💬 Always happy to talk AI, MLOps, Data Science or what's actually worth learning right now
 - 📫 [nataliejllow@gmail.com](mailto:nataliejllow@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jia-li-natalie-low/)
